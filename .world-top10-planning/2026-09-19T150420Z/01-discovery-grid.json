@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "볼트랩스",
+    "timestamp": "2026-09-19T15:04:21.008Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "VoltLabs",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "블록체인 보안",
+      "스마트 컨트랙트",
+      "DeFi 솔루션"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "차세대 핀테크 혁신을 주도하는 볼트랩스 연구소."
+  }
+}
